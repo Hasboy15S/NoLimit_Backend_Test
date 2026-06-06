@@ -37,7 +37,7 @@ Apakah bisa langsung di-run setelah di-pull? Belum bisa. Karena ukuran library s
 Bash
 npm install
 3. Siapkan Database
-Buka MySQL kamu (bisa lewat CLI atau tools seperti phpMyAdmin), lalu buat satu database baru bernama nolimit_blog:
+Buka MySQL (bisa lewat CLI atau tools seperti phpMyAdmin), lalu buat satu database baru bernama nolimit_blog:
 
 SQL
 CREATE DATABASE nolimit_blog;
